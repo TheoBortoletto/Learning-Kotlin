@@ -1,3 +1,3 @@
 # Learning-Kotlin
 
-Learning 'Kotlin' from W3Schools
+Learning 'Kotlin' at W3Schools.
